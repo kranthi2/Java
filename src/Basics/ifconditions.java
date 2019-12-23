@@ -1,3 +1,4 @@
+package Basics;
 
 public class ifconditions {
 	public static void main(String[] args) {
