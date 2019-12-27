@@ -55,6 +55,8 @@ public class Arrayconcept {
 			System.out.println(obj[m]);
 		}
 		
+		System.out.println(obj[4]);
+		
 	}
 
 }
